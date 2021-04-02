@@ -1,0 +1,16 @@
+{
+  "name": "@kadeluxe/async-task",
+  "version": "1.0.0",
+  "description": "Wraps Promise into an object with resolving methods",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Kadeluxe",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
