@@ -7,12 +7,9 @@
       "ES2018"
     ],
     "declaration": true,
-    "strict": true,
+    "strict": true
   },
   "include": [
     "src/**/*"
-  ],
-  "exclude": [
-    "**/node_modules"
   ]
 }

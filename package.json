@@ -2,14 +2,17 @@
   "name": "@kadeluxe/async-task",
   "version": "1.0.0",
   "description": "Wraps Promise into an object with resolving methods",
+  "author": "Kadeluxe",
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kadeluxe/AsyncTask.git"
+  },
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "Kadeluxe",
-  "license": "MIT",
   "devDependencies": {
     "typescript": "^4.2.3"
   }
